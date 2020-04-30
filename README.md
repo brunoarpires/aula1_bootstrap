@@ -1,2 +1,1 @@
-Esse projeto foi desenvol  para  realizar o curso d a aula 01 de Bootstrap do site Digital Innovation One
-Foi realizado a criação de uma webpagina  basica, com a biblioteca do bootstrap na versão 4.4.
+Esse projeto foi desenvolvido para realizar o curso da aula 01 de Bootstrap do site Digital Innovation One. Foi realizado a criação de uma pagina na web básica, com a biblioteca do bootstrap na versão 4.4.
